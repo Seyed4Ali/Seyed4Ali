@@ -25,10 +25,9 @@ App Developer & Web Designer
                     
 ### Socials
                   
-<p align="left">
-    <a href=" https://instagram.com/s.ali._.14" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3621/3621464.png" width="50" height="50" /></a>
-  <a href="ali21.5mousavi@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" width="50" height="50" /></a>
-  <a href="(+98)910-280-0712" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-phone-2666572-2212584.png" width="50" height="50" /></a></p>
+* instagram: https://instagram.com/s.ali._.14
+* email: ali21.5mousavi@gmail.com
+* number: (+98)910-280-0712
 
 ### Badges
 
