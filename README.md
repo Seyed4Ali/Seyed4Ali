@@ -24,11 +24,15 @@ App Developer & Web Designer
   
                     
 ### Socials
-                  
-* instagram: https://instagram.com/s.ali._.14
-* email: ali21.5mousavi@gmail.com
-* number: (+98)910-280-0712
-
+```           
+instagram: https://instagram.com/s.ali._.14
+```
+```
+email: ali21.5mousavi@gmail.com
+```
+```
+number: (+98)910-280-0712
+```
 ### Badges
 
 <b>My GitHub Stats</b>
