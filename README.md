@@ -1,14 +1,15 @@
 # <p align="center">Hello👋</p>
 
-## My name is Seyed Ali Mousavi Mojab
+## <p align="center">My name is Seyed Ali Mousavi Mojab</p>
 
-<img src="https://github.com/Seyed4Ali/Seyed4Ali/assets/132208230/4d3b1c47-f6e2-450c-8b61-db95e422d008" height=100px>
+<p align="center">
+<img src="https://github.com/Seyed4Ali/Seyed4Ali/assets/132208230/4d3b1c47-f6e2-450c-8b61-db95e422d008" height=100px;>
+</p>
 
 ### App Developer & Web Designer
 
 *   🖥️  See my resume at [negative._.star](https://github.com/Seyed4Ali/negative._.star.git)
-*   🚀  I'm open to collaborating on interesting projects as a web designer and pc developer
-                  
+*   🚀 I am a junior programmer👨‍🔧 in the field of ​​c++👾 and advanced python🐍 and django framework professionally, I'm open to collaborating on interesting projects as a web designer and pc developer.           
 ### Skills
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png?w=750&h=750&q=100&fm=png" width="36" height="36" alt="python" /></a>
@@ -19,7 +20,7 @@
       <a href="https://wordpress.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" width="36" height="36" alt="wordpress" /></a>
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
             <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="46" height="36" alt="mysql" /></a>
-  <a href="https://icdl.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Cyan_-_web-ICDL_logo_with_strap_STACKED.png" width="46" height="36" alt="DotNet" /></a>
+  <a href="https://icdl.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Cyan_-_web-ICDL_logo_with_strap_STACKED.png" width="46" height="36" alt="icdl" /></a>
   
                     
 ### Socials
